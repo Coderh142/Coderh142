@@ -44,11 +44,3 @@
   </a>  
 </p>  
 <br>
-<!-- Pac-Man Contribution Graph Animation -->
-<p align="center">  
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=yellow&color_dots=#000000,#2e2e2e,#ffcc00,#ffee00" alt="pac-man gif" />  
-</p>  
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderh142&show_icons=true&locale=en&layout=compact" alt="coderh142" /></p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderh142&show_icons=true&locale=en" alt="coderh142" /></p>  
