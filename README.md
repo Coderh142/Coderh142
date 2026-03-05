@@ -5,12 +5,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGc5cWo1ZjdvMnhoNDRjMGFtYmprb201OWZnbnI0dXJ4dWQ2ZmpyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" alt="coding gif" width="400"/>
 </p>  
 <br><br>
-<p align="left">  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">  
-    <img src="https://github-profile-trophy.vercel.app/?username=coderh142" alt="coderh142" />  
-  </a>  
-</p>  
-<br>
+
 
 - 📫 **How to reach me:**    ✉️ <a href="mailto:hinawaqar2452g@gmail.com"><b><span style="color:#ff6600">hinawaqar2452g@gmail.com</span></b></a>
 
